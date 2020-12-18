@@ -1,0 +1,12 @@
+.cont1 {
+  display: flex;
+  margin-left: 5rem;
+}
+.img1 {
+  width: 20rem;
+  height: auto;
+}
+.img2 {
+  width: 20rem;
+  height: auto;
+}
