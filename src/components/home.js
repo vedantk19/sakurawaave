@@ -13,7 +13,7 @@ function Home() {
           </li>
           <li className="item">
             <a className="nav-link" href="#services">
-              <span>Services</span>
+              <span>Our Goals</span>
             </a>
           </li>
           <li className="item">
@@ -24,7 +24,7 @@ function Home() {
 
           <li className="item">
             <a className="nav-link" href="#contact-us">
-              <span>Contact Us</span>
+              <span>Meet Us</span>
             </a>
           </li>
         </ul>
@@ -39,6 +39,9 @@ function Home() {
             <div className="primary-button">
               <a href="#services">Explore</a>
             </div>
+            <h2 style={{ color: "white", fontSize: "xx-large" }}>
+              Coming Soon.
+            </h2>
           </div>
         </div>
       </div>
