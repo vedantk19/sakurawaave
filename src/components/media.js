@@ -10,8 +10,8 @@ export default class Media extends Component {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="../assets/img/imgs/ich.png"
-                alt="First slide"
+                src="../assets/img/imgs/Screenshot 2020-11-27 at 12.21.49 AM.png"
+                alt="Third slide"
               />
               <Carousel.Caption>
                 <h3>First slide label</h3>

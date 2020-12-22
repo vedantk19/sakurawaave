@@ -46,6 +46,7 @@ a:hover {
 }
 .fixed-side-navbar:hover {
   background: transparent;
+  transform: scale(1.08);
 }
 .fixed-side-navbar:hover .nav > li > a > span {
   color: rgba(0, 0, 0, 0.5);
@@ -81,6 +82,7 @@ a:hover {
   position: relative;
   display: block;
 }
+
 .fixed-side-navbar .nav > li a {
   color: #fff;
   min-height: 32px;
@@ -147,7 +149,7 @@ a:hover {
 .baner-content {
   padding-top: 30vh;
   text-align: center;
-  background-image: url(../img/241577.png);
+  background-image: url(../img/main.gif);
 }
 
 .baner-content h1 {
@@ -181,7 +183,7 @@ a:hover {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
-  background-image: url(../img/755391.jpg);
+  background-image: url(../img/652335.jpg);
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
@@ -242,8 +244,9 @@ h4,
 }
 
 .projects-content {
-  padding-top: 20vh;
-  background-image: url(../img/3rd-section.jpg);
+  padding: 6%;
+  padding-top: 10rem;
+  background-image: url(../img/original.gif);
 }
 
 .projects-content .item img {
@@ -362,8 +365,8 @@ section {
 .contact-content {
   padding-left: 15px;
   padding-right: 15px;
-  padding-top: 16vh;
-  background-image: url(../img/5th-section.jpg);
+  padding-top: 7rem;
+  background-image: url(../img/793.png);
 }
 
 .contact-form {
