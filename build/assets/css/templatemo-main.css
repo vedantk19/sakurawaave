@@ -182,7 +182,7 @@ a:hover {
 .service-content {
   padding-left: 15px;
   padding-right: 15px;
-  padding-top: 15vh;
+  padding-top: 6vh;
   background-image: url(../img/wave.gif);
   background-attachment: fixed;
   min-height: 100vh;
@@ -363,10 +363,12 @@ section {
 }
 
 .contact-content {
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 5rem;
-  background-image: url(../img/meet.gif);
+  padding-left: 5rem;
+  padding-right: 8rem;
+  padding-top: 6rem;
+  background-image: url(../img/wave.gif);
+  
+}
 }
 
 .contact-form {
