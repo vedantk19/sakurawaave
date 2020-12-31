@@ -11,7 +11,8 @@
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "gh-pages": "3.1.0"
   },
   "homepage": "https://vedantk19.github.io/sakurawaave/",
   "scripts": {
