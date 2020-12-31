@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sakurawaave/static/css/main.522a8434.chunk.css",
+    "main.js": "/sakurawaave/static/js/main.7ee9536d.chunk.js",
+    "main.js.map": "/sakurawaave/static/js/main.7ee9536d.chunk.js.map",
+    "runtime-main.js": "/sakurawaave/static/js/runtime-main.7cacc2e0.js",
+    "runtime-main.js.map": "/sakurawaave/static/js/runtime-main.7cacc2e0.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/sakurawaave/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5edd2188.chunk.js": "/sakurawaave/static/js/2.5edd2188.chunk.js",
+    "static/js/2.5edd2188.chunk.js.map": "/sakurawaave/static/js/2.5edd2188.chunk.js.map",
+    "static/js/3.9f3e63fd.chunk.js": "/sakurawaave/static/js/3.9f3e63fd.chunk.js",
+    "static/js/3.9f3e63fd.chunk.js.map": "/sakurawaave/static/js/3.9f3e63fd.chunk.js.map",
+    "index.html": "/sakurawaave/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/sakurawaave/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.522a8434.chunk.css.map": "/sakurawaave/static/css/main.522a8434.chunk.css.map",
+    "static/js/2.5edd2188.chunk.js.LICENSE.txt": "/sakurawaave/static/js/2.5edd2188.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cacc2e0.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.5edd2188.chunk.js",
+    "static/css/main.522a8434.chunk.css",
+    "static/js/main.7ee9536d.chunk.js"
+  ]
+}
