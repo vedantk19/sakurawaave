@@ -11,13 +11,16 @@
 }
 
 .cardhov:hover {
-  transform: scale(1.09);
+  transform: scale(1.06);
   transition: all 1.5s ease;
-  box-shadow: 10px 10px 100px grey;
 }
 
 .face {
   width: 40rem;
   height: 40rem;
   object-fit: cover;
+}
+
+.cardhov {
+  background: rgb(249, 210, 217);
 }

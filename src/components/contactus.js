@@ -39,7 +39,9 @@ export default function Contactus() {
             <Card.Text>
               In the end we only regret the chances we dont take.
             </Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <a href="https://www.instagram.com/aryanparab_/" target="_blank">
+              <Button variant="primary">@aryanparab_</Button>
+            </a>
           </Card.Body>
         </Card>
         <Card className="cardhov">
@@ -53,23 +55,29 @@ export default function Contactus() {
           <Card.Body>
             <Card.Title>Samuel Daniell</Card.Title>
             <Card.Text>
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Life's a bore, if you don't challenge yourself.
             </Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <a href="https://www.instagram.com/samuel_d26/" target="_blank">
+              <Button variant="primary">@samuel_d26</Button>
+            </a>
           </Card.Body>
         </Card>
         <Card className="cardhov">
           <div className="exp">
-            <Card.Img variant="top" src="../assets/img/1st-item.jpg" />
+            <Card.Img
+              variant="top"
+              src="../assets/img/imgs/piyush.jpg"
+              className="face"
+            />
           </div>
           <Card.Body>
             <Card.Title>Piyush Chaudhary</Card.Title>
             <Card.Text>
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
+              Perceive that which cannot be seen with the eye.
             </Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <a href="https://www.instagram.com/piyusssshhhh/" target="_blank">
+              <Button variant="primary">@piyusssshhhh</Button>
+            </a>
           </Card.Body>
         </Card>
       </CardDeck>

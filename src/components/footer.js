@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "./footer.css";
 
 export default function () {
@@ -51,7 +51,9 @@ export default function () {
                 </li>
               </ul>
               <p>
-                <a href="tel:123-456-7890">+91 123-456-7890</a>
+                <a href="tel:9136544030" className="fa fa-phone">
+                  +91 9136544030
+                </a>
               </p>
               <p>Copyright © 2020 SakuraWave</p>
             </div>

@@ -1,6 +1,5 @@
-import React, { components } from "react";
-import { useState, useEffect } from "react";
-import { Card, Button, Toast, CardDeck } from "react-bootstrap";
+import React from "react";
+
 import "./products.css";
 /* ../assets/img/1st-item.jpg */
 function Products() {
@@ -9,14 +8,26 @@ function Products() {
       <div className="parallax-content projects-content" id="portfolio">
         <h1 className="head">Our Instagram</h1>
         <div className="row">
-          <img src="../assets/img/bleed.jpg" className="img" />
-          <img src="../assets/img/jin.png" className="img" />
-          <img src="../assets/img/golden.jpg" className="img" />
+          <a href="https://www.instagram.com/sakurawaave/" target="_blank">
+            <img src="../assets/img/bleed.jpg" className="img" />
+          </a>
+          <a href="https://www.instagram.com/sakurawaave/" target="_blank">
+            <img src="../assets/img/jin.png" className="img" />
+          </a>
+          <a href="https://www.instagram.com/sakurawaave/" target="_blank">
+            <img src="../assets/img/golden.jpg" className="img" />
+          </a>
         </div>
         <div className="row">
-          <img src="../assets/img/wander.png" className="img" />
-          <img src="../assets/img/1st-item.jpg" className="img" />
-          <img src="../assets/img/1st-item.jpg" className="img" />
+          <a href="https://www.instagram.com/sakurawaave/" target="_blank">
+            <img src="../assets/img/wander.png" className="img" />
+          </a>
+          <a href="https://www.instagram.com/sakurawaave/" target="_blank">
+            <img src="../assets/img/pixel itachi.png" className="img" />
+          </a>
+          <a href="https://www.instagram.com/sakurawaave/" target="_blank">
+            <img src="../assets/img/satoru.jpg" className="img" />
+          </a>
         </div>
       </div>
     </>

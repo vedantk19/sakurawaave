@@ -1,4 +1,4 @@
-import React, { components } from "react";
+import React from "react";
 import "./home.css";
 
 function Home() {
@@ -39,9 +39,6 @@ function Home() {
             <div className="primary-button">
               <a href="#services">Explore</a>
             </div>
-            <h2 style={{ color: "white", fontSize: "xx-large" }}>
-              Coming Soon.
-            </h2>
           </div>
         </div>
       </div>
