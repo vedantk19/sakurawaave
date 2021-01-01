@@ -154,7 +154,7 @@ a:hover {
 
 .baner-content h1 {
   margin-top: 0px;
-  font-size: 128px;
+  font-size: 10vw;
   color: #fff;
   font-weight: 900;
   text-transform: uppercase;
@@ -365,7 +365,7 @@ section {
 .contact-content {
   padding-left: 5rem;
   padding-right: 8rem;
-  padding-top: 6rem;
+  padding-top: 2rem;
   background-image: url(../img/wave.gif);
   
 }
