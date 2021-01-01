@@ -1,14 +1,14 @@
 import React from "react";
 import "./footer.css";
 
-export default function () {
+export default function Footer() {
   return (
     <div>
       <footer>
         <div className="container">
           <div className="row">
             <div className="col-md-12">
-              <img src="./logo.png" className="logo" />
+              <img src="./logo.png" className="logo" alt="logo" />
               <div className="primary-button">
                 <a href="#home">Back To Top</a>
               </div>
@@ -18,6 +18,7 @@ export default function () {
                     href="https://twitter.com/sakurawave1311?s=09"
                     style={{ backgroundColor: "white" }}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <i className="fa fa-twitter" />
                   </a>
@@ -27,6 +28,7 @@ export default function () {
                     href="https://www.instagram.com/sakurawaave/"
                     style={{ backgroundColor: "white" }}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <i className="fa fa-instagram" />
                   </a>
@@ -36,6 +38,7 @@ export default function () {
                     href="mailto:sakurawave1311@gmail.com"
                     style={{ backgroundColor: "white" }}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <i className="fa fa-google" />
                   </a>
@@ -45,6 +48,7 @@ export default function () {
                     href="https://www.youtube.com/channel/UCM07JtxIuKRrEOTXmfULjPQ/featured"
                     style={{ backgroundColor: "white" }}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <i className="fa fa-youtube" />
                   </a>
