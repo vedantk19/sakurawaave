@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sakurawaave/static/css/main.522a8434.chunk.css",
-    "main.js": "/sakurawaave/static/js/main.37979e77.chunk.js",
-    "main.js.map": "/sakurawaave/static/js/main.37979e77.chunk.js.map",
+    "main.js": "/sakurawaave/static/js/main.13241c7c.chunk.js",
+    "main.js.map": "/sakurawaave/static/js/main.13241c7c.chunk.js.map",
     "runtime-main.js": "/sakurawaave/static/js/runtime-main.7cacc2e0.js",
     "runtime-main.js.map": "/sakurawaave/static/js/runtime-main.7cacc2e0.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/sakurawaave/static/css/2.20aa2d7b.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.5edd2188.chunk.js",
     "static/css/main.522a8434.chunk.css",
-    "static/js/main.37979e77.chunk.js"
+    "static/js/main.13241c7c.chunk.js"
   ]
 }
