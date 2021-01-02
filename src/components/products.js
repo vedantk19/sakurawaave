@@ -58,7 +58,7 @@ function Products() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="../assets/img/satoru.jpg" className="img" alt="satoru" />
+            <img src="../assets/img/Satoru.jpg" className="img" alt="satoru" />
           </a>
         </div>
       </div>

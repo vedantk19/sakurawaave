@@ -15,7 +15,7 @@ export default function Footer() {
               <ul>
                 <li className="social">
                   <a
-                    href="https://twitter.com/sakurawave1311?s=09"
+                    href="https://twitter.com/sakurawaave?s=09"
                     style={{ backgroundColor: "white" }}
                     target="_blank"
                     rel="noopener noreferrer"
