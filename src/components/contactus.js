@@ -1,5 +1,9 @@
 import React from "react";
 import { Card, Button, CardDeck } from "react-bootstrap";
+import vedant from "../img/imgs/vedant.jpg";
+import aryan from "../img/imgs/parab.jpg";
+import sam from "../img/imgs/sam.jpg";
+import piyush from "../img/imgs/piyush.jpg";
 
 import "./contactus.css";
 
@@ -11,7 +15,7 @@ export default function Contactus() {
           <div className="exp">
             <Card.Img
               variant="top"
-              src="../assets/img/imgs/vedant.jpg"
+              src={vedant}
               alt="vedant"
               className="face"
             />
@@ -33,11 +37,7 @@ export default function Contactus() {
         </Card>
         <Card className="cardhov">
           <div className="exp">
-            <Card.Img
-              variant="top"
-              src="../assets/img/imgs/parab.jpg"
-              className="face"
-            />
+            <Card.Img variant="top" src={aryan} className="face" />
           </div>
           <Card.Body>
             <Card.Title>Aryan Parab</Card.Title>
@@ -55,11 +55,7 @@ export default function Contactus() {
         </Card>
         <Card className="cardhov">
           <div className="exp">
-            <Card.Img
-              variant="top"
-              src="../assets/img/imgs/sam.jpg"
-              className="face"
-            />
+            <Card.Img variant="top" src={sam} className="face" />
           </div>
           <Card.Body>
             <Card.Title>Samuel Daniell</Card.Title>
@@ -77,11 +73,7 @@ export default function Contactus() {
         </Card>
         <Card className="cardhov">
           <div className="exp">
-            <Card.Img
-              variant="top"
-              src="../assets/img/imgs/piyush.jpg"
-              className="face"
-            />
+            <Card.Img variant="top" src={piyush} className="face" />
           </div>
           <Card.Body>
             <Card.Title>Piyush Chaudhary</Card.Title>
