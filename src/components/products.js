@@ -1,5 +1,5 @@
 import React from "react";
-
+import jin from "../img/jin.png";
 import "./products.css";
 /* ../assets/img/1st-item.jpg */
 function Products() {
@@ -20,7 +20,7 @@ function Products() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="../assets/img/jin.png" className="img" alt="jin" />
+            <img src={jin} className="img" alt="jin" />
           </a>
           <a
             href="https://www.instagram.com/sakurawaave/"
