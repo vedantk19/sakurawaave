@@ -32,14 +32,21 @@ function Home() {
       <div className="parallax-content baner-content" id="home">
         <div className="container">
           <div className="first-content">
-            <h2 style={{ color: "white", fontSize: "11vw", fontWeight: "900" }}>
-              SAKURAWAVE
-            </h2>
+            <h1 style={{ fontSize: "11vw" }}>SAKURAWAVE</h1>
             <h2 style={{ color: "white", fontSize: "xx-large" }}>
               Merch|Anime|Culture
             </h2>
             <div className="primary-button">
               <a href="#services">Explore</a>
+              <h2
+                style={{
+                  color: "white",
+                  fontSize: "xx-large",
+                  marginTop: "1rem",
+                }}
+              >
+                Coming Soon.
+              </h2>
             </div>
           </div>
         </div>
